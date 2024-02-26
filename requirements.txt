@@ -1,9 +1,2 @@
 Django==3.2.12
-psycopg2==2.9.1
-beautifulsoup4==4.10.0
-django-bootstrap4==3.0.1
-django-crispy-forms==1.12.0
-sqlparse==0.4.2
-asgiref==3.5.0
-typing-extensions==4.1.1
-soupsieve==2.3.1
+
